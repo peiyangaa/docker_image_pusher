@@ -1,5 +1,5 @@
 
-openjdk:8-jre
+amazoncorretto:latest
 #支持私库
 nextcloud
 #支持指定架构
